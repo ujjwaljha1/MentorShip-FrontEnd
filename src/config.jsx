@@ -5,8 +5,8 @@ const config = {
     // API_BASE_URL: 'https://sih-server-production.up.railway.app/api',
     //API_BASE_URL: '  http://localhost:3001/api',
    // API_BASE_URL1: '  http://localhost:3001',
-   API_BASE_URL: 'https://sih-internal-production.up.railway.app/api',
-   API_BASE_URL1: 'https://sih-internal-production.up.railway.app'
+   API_BASE_URL: 'https://mentorship-server-production.up.railway.app/api',
+   API_BASE_URL1: 'https://mentorship-server-production.up.railway.app/'
      //Hello world 
     // For example:
     //blaa blaa
