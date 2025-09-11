@@ -44,12 +44,13 @@ export default function Navbar() {
       { name: 'My Sessions', path: '/my-sessions' },
       { name: 'Resources', path: '/view-books' },
       { name: 'Mentor Training', path :'/learnlist'},
+      { name: 'Dashboard',path : '/amdashboard'}
     ],
     Admin: [
+      {name: "Main",path:"/dashboard"},
       { name: 'Dashboard', path: '/dashboardAdmin' },
       { name: 'Manage Users', path: '/manage-users' },
       { name: 'Reports', path: '/reports' },
-      {name: "Main",path:"/dashboard"},
       {name: "Feedback",path:"/userFeedback"}
     ],
   }
