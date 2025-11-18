@@ -58,8 +58,10 @@ import AMDashboard from './Pages/DashBoard/AdminMento';
 import ChatBot from './Bots/chatbot';
 import TechCareerPathsHub from './Roadmap/Roadmap';
 import DetailedDataScientistRoadmap from './Roadmap/DataScientist';
+import { useAnalytics } from "./hooks/useAnalytics";
 
 function App() {
+  useAnalytics("G-EF8S3EBWX8");
   return (
     <>
     
