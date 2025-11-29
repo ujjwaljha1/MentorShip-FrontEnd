@@ -1,5 +1,9 @@
 {
     "compilerOptions": {
+<<<<<<< HEAD
+=======
+      "jsx": "react",
+>>>>>>> upstream/main
       // ...
       "baseUrl": ".",
       "paths": {

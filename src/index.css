@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
 
 
 @layer base {
@@ -66,3 +67,5 @@
     @apply bg-background text-foreground;
   }
 }
+=======
+>>>>>>> upstream/main
